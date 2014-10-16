@@ -1,0 +1,17 @@
+[
+{
+  "modid": "darwin",
+  "name": "Darwin",
+  "description": "This mod add mobs with genetics.",
+  "version": "0.2.3",
+  "mcversion": "1.6.2",
+  "logoFile": "/assets/darwin/textures/darwin_banner_small.png",
+  "url": "http://www.minecraftforum.net/topic/1678346-darwin/",
+  "updateUrl": "",
+  "authors": ["Manchou"],
+  "credits": "Made by Manchou.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
